@@ -188,4 +188,4 @@ async def search_article(interaction: nextcord.Interaction, article_query: str):
     else:
         await interaction.response.send_message(f"Article {article_query.upper()} not found.")
 
-bot.run('MTIwMDA2MTYwMjIxMzQwNDY3Mg.G6xuhq.gTb5dQsjeAIEYWSWopYNkmhQd0dy6-RSmFrFTo')
+bot.run('token')
