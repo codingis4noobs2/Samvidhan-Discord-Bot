@@ -10,7 +10,7 @@ Samvidhan Bot is a Discord bot designed to make the Indian Constitution accessib
 
 ## Invite Samvidhan Bot to Your Server
 You can add Samvidhan Bot to your Discord server using the following invite link:
-[Invite Samvidhan Bot](https://discord.com/api/oauth2/authorize?client_id=1200061602213404672&permissions=277025508352&scope=bot+applications.commands)
+[Invite Samvidhan Bot](https://discord.com/api/oauth2/authorize?client_id=1200061602213404672&permissions=277025508352&scope=bot+applications.commands) (Yet to be hosted)
 
 ## Commands Available
 - `/help`: Displays all the available commands and their descriptions.
@@ -33,7 +33,7 @@ To install and run Samvidhan Bot on your local device, follow these steps:
 pip install -U nextcord
 ```
 
-2. Create a new Discord bot on the [Discord Developer Portal](https://discord.com/developers/applications) and obtain your bot token.
+2. Create a new Discord bot on the [Discord Developer Portal](https://discord.com/developers/applications) and obtain your bot token and invite the bot in your server.
 
 3. Enable the necessary intents for your bot in the Discord Developer Portal. Samvidhan Bot requires the `GUILDS` and `MESSAGE_CONTENT` intents to be enabled.
 
